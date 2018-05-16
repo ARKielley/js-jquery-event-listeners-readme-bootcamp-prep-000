@@ -26,4 +26,6 @@ function pressIt() {
   })
 }
 
-function submitIt
+function submitIt() {
+  $('form')
+}
